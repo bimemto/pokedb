@@ -1865,66 +1865,66 @@ hr {
  * MUI Appbar
  */
 .mui--appbar-height {
-  height: 1px;
+  height: 56px;
 }
 
 @media (orientation: landscape) and (max-height: 480px) {
   .mui--appbar-height {
-    height: 1px;
+    height: 48px;
   }
 }
 
 @media (min-width: 480px) {
   .mui--appbar-height {
-    height: 1px;
+    height: 64px;
   }
 }
 
 .mui--appbar-min-height, .mui-appbar {
-  min-height: 1px;
+  min-height: 56px;
 }
 
 @media (orientation: landscape) and (max-height: 480px) {
   .mui--appbar-min-height, .mui-appbar {
-    min-height: 1px;
+    min-height: 48px;
   }
 }
 
 @media (min-width: 480px) {
   .mui--appbar-min-height, .mui-appbar {
-    min-height: 1px;
+    min-height: 64px;
   }
 }
 
 .mui--appbar-line-height {
-  line-height: 1px;
+  line-height: 56px;
 }
 
 @media (orientation: landscape) and (max-height: 480px) {
   .mui--appbar-line-height {
-    line-height: 1px;
+    line-height: 48px;
   }
 }
 
 @media (min-width: 480px) {
   .mui--appbar-line-height {
-    line-height: 1px;
+    line-height: 64px;
   }
 }
 
 .mui--appbar-top {
-  top: 1px;
+  top: 56px;
 }
 
 @media (orientation: landscape) and (max-height: 480px) {
   .mui--appbar-top {
-    top: 1px;
+    top: 48px;
   }
 }
 
 @media (min-width: 480px) {
   .mui--appbar-top {
-    top: 1px;
+    top: 64px;
   }
 }
 
