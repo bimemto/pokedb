@@ -1897,7 +1897,7 @@ hr {
 }
 
 .mui--appbar-line-height {
-  line-height: 56px;
+  line-height: 0px;
 }
 
 @media (orientation: landscape) and (max-height: 480px) {
